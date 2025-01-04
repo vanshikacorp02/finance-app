@@ -2,5 +2,8 @@
 
 This is a simple application to track personal finances.
 
-#Feature Branch 
--Expenses
+
+#Features in Development
+
+- Monthly Expenses Tracking Features
+- Expense reporting(work in progress....)
